@@ -1,12 +1,16 @@
 # Smart Gesture-to-Speech Glove
 
+Project Videos
+- Project Presentation: [View](https://drive.google.com/file/d/1NhOoB2F6dxvqF_Vjk7UGm4oJMjm8GlDw/view?usp=drive_link)  
+- Live Demonstration: [View](https://drive.google.com/file/d/1kISrB61MkR8p2K78YtTlxBDvFEG-ary-/view?usp=drive_link)
+
 This project is a wearable assistive device designed to help speech-impaired individuals communicate more effectively.  
 The glove uses flex sensors and an MPU6050 motion sensor to detect hand gestures, which are then converted into speech and text via Bluetooth Low Energy (BLE).  
 It also integrates a MAX30102 sensor for real-time heart rate and SpO₂ monitoring, combining communication support with basic health tracking.
 
 ---
 
-## Project Videos
+Project Videos
 - Project Presentation: [View](https://drive.google.com/file/d/1NhOoB2F6dxvqF_Vjk7UGm4oJMjm8GlDw/view?usp=drive_link)  
 - Live Demonstration: [View](https://drive.google.com/file/d/1kISrB61MkR8p2K78YtTlxBDvFEG-ary-/view?usp=drive_link)
 
