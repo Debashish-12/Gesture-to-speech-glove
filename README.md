@@ -10,12 +10,6 @@ It also integrates a MAX30102 sensor for real-time heart rate and SpO₂ monitor
 
 ---
 
-Project Videos
-- Project Presentation: [View](https://drive.google.com/file/d/1NhOoB2F6dxvqF_Vjk7UGm4oJMjm8GlDw/view?usp=drive_link)  
-- Live Demonstration: [View](https://drive.google.com/file/d/1kISrB61MkR8p2K78YtTlxBDvFEG-ary-/view?usp=drive_link)
-
----
-
 ## Features
 - Gesture recognition using flex sensors and MPU6050 (accelerometer + gyroscope)
 - Speech and text output via Bluetooth Low Energy (BLE)
